@@ -123,22 +123,17 @@ Late assignments will be marked down one grade for each day it is late. For exam
 *   Make sure you can log into the class JupyterHub
 	*   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 
-Week | Date | Topic
---- | --- | ---
+Week | Topic
+--- | ---
 Week 1 | [Introduction to spatial data science](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week01%20Intro)
-Week 2 | [Data in Urban Studies: The challenge in data acquisition](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week02%20Spatial%20Data%20Exploration)
- -- | [Group assignment #1: Project Proposal](Group%20Assignments/GroupAssignment1.md)
-Week 3 | [Understanding communities: Census data profiles](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week03%20Census%20Data)
- -- |  [Group assignment #2: Census Data Exploration](Group%20Assignments/GroupAssignment2.md)
+Week 2 | [Data in Urban Studies: The challenge in data acquisition](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week02%20Spatial%20Data%20Exploration)<br> → [Group assignment #1: Project Proposal](Group%20Assignments/GroupAssignment1.md)
+Week 3 | [Understanding communities: Census data profiles](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week03%20Census%20Data)<br> →   [Group assignment #2: Census Data Exploration](Group%20Assignments/GroupAssignment2.md)
 Week 4 | Open Street Maps](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week04%20Open%20data)
 Week 5 | Open data and APIs](Weeks/Week05)
-Week 6 | Mid-terms](Weeks/Week06)
- -- | Midterms](Midterm%20and%20Finals)
-Week 7 | [Geocoding, multiple overlays, and functions](Weeks/Week07)
- -- | [Group assignment #3: Data Visualization](Group%20Assignments/GroupAssignment3.md)
+Week 6 | Mid-terms](Weeks/Week06)<br> →  Midterms](Midterm%20and%20Finals)
+Week 7 | [Geocoding, multiple overlays, and functions](Weeks/Week07)<br> →  [Group assignment #3: Data Visualization](Group%20Assignments/GroupAssignment3.md)
 Week 8 | [Spatial statistics](Weeks/Week08)
-Week 9 | [Point pattern analysis](Weeks/Week09)
- -- | [Group assignment #4: Spatial Analysis](Group%20Assignments/GroupAssignment4.md)
+Week 9 | [Point pattern analysis](Weeks/Week09)<br> →  [Group assignment #4: Spatial Analysis](Group%20Assignments/GroupAssignment4.md)
 Week 10 |[Remote Sensing and Sentiment Analysis](Weeks/Week10)
 Finals Week | [Finals](Midterm%20and%20Finals)
 
