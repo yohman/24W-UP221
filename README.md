@@ -4,10 +4,6 @@ Winter 2024
 
 Mondays 5pm - 7:50pm
 
-Fully remote instruction and attendance with in-person options to meet with T.A.'s
-
-Zoom (TBD)
-
 ## Instructor: 
 
 Yoh Kawano (yohman@gmail.com)
