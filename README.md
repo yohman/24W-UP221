@@ -4,6 +4,12 @@ Winter 2024
 
 Mondays 5pm - 7:50pm
 
+## Course format:
+
+**Live-Online/Synchronous**
+
+This course will meet in real time via Zoom. Classes meet at regularly scheduled times and you have the opportunity to interact with your instructor and your classmates in real time. Just like a regular on-campus class, you are expected to attend and participate in discussions.
+
 ## Instructor: 
 
 Yoh Kawano (yohman@gmail.com)
