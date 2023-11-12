@@ -8,11 +8,11 @@ Mondays 5pm - 7:50pm
 
 **Live-Online/Synchronous**
 
-This course will meet in real time via Zoom. Classes meet at regularly scheduled times and you have the opportunity to interact with your instructor and your classmates in real time. Just like a regular on-campus class, you are expected to attend and participate in discussions.
+This course will meet in real time via Zoom. Classes meet at regularly scheduled times and you will have the opportunity to interact with your instructor and your classmates. Just like a regular on-campus class, you are expected to attend and participate in discussions.
 
 **Camera use**
 
-Cameras are expected to be on during instruction. If you have any concerns about using your camera during class, please share those in the survey distributed at the beginning of the quarter, contact me via email, and/or talk to me during office hours. We will work together to determine the best approach to address andy concerns you may have.
+Cameras are expected to be on during instruction. If you have any concerns about using your camera during class, please share those in the survey distributed at the beginning of the quarter, contact me via email, and/or talk to me during office hours. We will work together to determine the best approach to address any concerns you may have.
 
 ## Instructor: 
 
