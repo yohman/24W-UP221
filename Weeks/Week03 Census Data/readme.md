@@ -30,7 +30,7 @@ Census Data Exploration
 
 https://ucla.zoom.us/j/96734931456
 
-January 23, 2023
+January 23, 2024
 
 ##
 <xl>
