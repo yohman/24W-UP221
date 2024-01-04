@@ -27,7 +27,7 @@ UP221: Introduction to GIS and Spatial Data Science
 
 </xl>
 
-https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09
+[Course zoom link for Winter Quarter 2024](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
 January 8, 2024
 
