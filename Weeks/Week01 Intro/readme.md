@@ -27,9 +27,9 @@ UP221: Introduction to GIS and Spatial Data Science
 
 </xl>
 
-https://ucla.zoom.us/j/96734931456
+https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09
 
-January 9, 2024
+January 8, 2024
 
 ##
 <xl>
@@ -46,22 +46,20 @@ January 9, 2024
 
 ![bg](../images/ginkakuji2.jpg)
 
-## Call me "Yoh"
+## Call me "Chris"
 ![width:300px](../images/yoh%20at%20reitaku.jpg)
 ![bg right:65%](../images/my%20life%20in%20data.png)
-
-[My journey](https://yohman.github.io/21S-DH151/Weeks/Week01/misc/me.html)
 
 # Overview of the course
 ##
 
-* Mark your [attendance ✅](https://docs.google.com/spreadsheets/d/1AyNdt5qhkWFIkaGcKBVB3rexTgRLfv-Wx7GqY3LPnGA/edit?usp=sharing) 
-* Fill out the [pre-class](https://forms.gle/f8ZXLgNbvFawt6cw5) poll if you haven't already ☑️
-* Go over the [Syllabus](https://github.com/yohman/23W-UP221) 📜
+* Mark your [attendance ✅](https://docs.google.com/spreadsheets/d/15hvcbzJbfwa70KvKMWUG63oyRWaY_NEfx4pVJpi_f6w/edit?usp=sharing) 
+* Fill out the [pre-class](https://docs.google.com/forms/d/e/1FAIpQLSfs2NtxTY5HTcT6fr3-5TqoiD0fVcWptpjRifR1NU6v5jdXRg/viewform?vc=0&c=0&w=1&flr=0&pli=1) poll if you haven't already ☑️
+* Go over the [Syllabus](https://github.com/cgiamarino9/24W-UP221) 📜
 
 ## Meet your TA's
-  * Chris Giamarino 🎂🥳
-  * Elliot Shaw
+  * Ariella Ventura 
+  * Lucy Briggs
 
 ## Logistics
 * Two monitors encouraged
@@ -89,7 +87,7 @@ Collaboration
 ## Set your environment
 First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F23W-UP221&urlpath=lab%2Ftree%2F23W-UP221%2F&branch=main) (This link will automatically launch JupyterHub and clone the course material into your directory)
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) (This link will automatically launch JupyterHub and clone the course material into your directory)
 
 ##
 
