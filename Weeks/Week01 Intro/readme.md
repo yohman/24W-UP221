@@ -2,7 +2,7 @@
 marp: true
 theme: uncover
 headingDivider: 3
-footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/yoh%20with%20globe.png)
+footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
 paginate: true
 
 ---
@@ -40,15 +40,15 @@ January 8, 2024
 
 # Hello!
 
-![](../images/yoh%20with%20globe%20large.png)
+![width:500px](../images/globe.png)
 
 ## 
 
-![bg](../images/ginkakuji2.jpg)
+![bg](../images/building.jpg)
 
 ## Call me "Chris"
-![width:300px](../images/yoh%20at%20reitaku.jpg)
-![bg right:65%](../images/my%20life%20in%20data.png)
+![width:600px](../images/thrasherCSEF.jpg)
+![bg right:40%](../images/c1.jpg)
 
 # Overview of the course
 ##
@@ -99,13 +99,13 @@ Today's lab will cover the following topics:
 
 # Individual Assignments
 
-There are three deliverables this week. Each are due on Sunday by midnight. Each assignment must be posted in the [class discussion section](https://github.com/yohman/23W-UP221/discussions).
+There are three deliverables this week. Each are due on Sunday by midnight. Each assignment must be posted in the [class discussion section](https://github.com/cgiamarino9/24W-UP221/discussions).
 
 ## #1. Create a GitHub account, and start a new repo
 
-*   Create a GitHub account, and create a project repo named “up221-yourfirstname” - [Instructions](../../Git%20related/02%20-%20Create%20your%20class%20repo.md)
+*   Create a GitHub account, and create a project repo named “up221-yourfirstname” - [Instructions](https://github.com/cgiamarino9/24W-UP221/blob/main/Git%20related/02%20-%20Create%20your%20class%20repo.md)
 *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/))
-*  Submit your assignment [here](https://github.com/yohman/23W-UP221/discussions/1)
+*  Submit your assignment [here](https://github.com/cgiamarino9/24W-UP221/discussions/2)
 
 ## #2. Submit two or more datasets
 Search for two or more potential data sources that you may use for your research. If you are you using a web resource, make sure that they are "downloadable." Upload your datasets to your repo. First, create a folder titled "data," and upload your datasets in there.
@@ -118,7 +118,7 @@ Search for two or more potential data sources that you may use for your research
 - shapefile
 - API source
 
-### Submit your dataset assigment [here](https://github.com/yohman/23W-UP221/discussions/2), and make sure to provide the following information for each of your two datasets:
+### Submit your dataset assigment [here](https://github.com/cgiamarino9/24W-UP221/discussions/3), and make sure to provide the following information for each of your two datasets:
 
 1. Name of the data
 1. Description of the data and how you may use it for your project
@@ -136,4 +136,4 @@ Then, write post with two parts:
 
 The instructors will select a few of the readings for discussion in week 2.
 
-Submit your assignment [here](https://github.com/yohman/23W-UP221/discussions/3).
+Submit your assignment [here](https://github.com/cgiamarino9/24W-UP221/discussions/1).
