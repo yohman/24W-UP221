@@ -29,7 +29,7 @@ UP221: Introduction to GIS and Spatial Data Science
 
 https://ucla.zoom.us/j/96734931456
 
-January 9, 2023
+January 9, 2024
 
 ##
 <xl>
