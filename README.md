@@ -16,11 +16,13 @@ Cameras are expected to be on during instruction. If you have any concerns about
 
 ## Instructor: 
 
-Yoh Kawano (yohman@gmail.com)
+Chris Giamarino (cgiamarino@g.ucla.edu)
 
 ## Teaching Assistants:
 
-TBD
+Ariella Ventura (ariellasventura@gmail.com)
+
+Lucy Briggs (lbriggs@g.ucla.edu)
 
 ## Special Technology Assistant:
 
@@ -30,8 +32,11 @@ Ben Winjum (bwinjum@ucla.edu)
 
 ## Office Hours: 
 
-* Yoh: TBD
+* Chris (schedule via email)
 
+* Ariella, Tuesdays from 1-3 pm (schedule via email/Zoom)
+
+* Lucy, Mondays from 2 - 4 pm (schedule via email/Zoom)
 
 ## Course Description
 
@@ -66,9 +71,9 @@ The following applications must be launched at the start of every class session:
 
 ## Inspirations
 
-I would be remiss if I do not mention various inspirations that have led to the creation of this course. First and foremost, the late and great [Leo Estrada](https://luskin.ucla.edu/in-memoriam-leo-estrada-urban-planning-scholar-and-champion-of-diversity), my mentor and confidant over the years, who taught GIS at our department for many decades. Leo and I spoke extensively about modifying this course to a more “modern” approach, and I am delighted and honored to uphold his legacy moving forward.
+I would be remiss if I do not mention various inspirations that have led to the creation of this course. First and foremost, Yoh Kawano crafted this course and was gracious enough to mentor me as a TA for several years, lend me the material, and show me how to teach GIS and python effectively. Second, the late and great [Leo Estrada](https://luskin.ucla.edu/in-memoriam-leo-estrada-urban-planning-scholar-and-champion-of-diversity), who was Yoh's mentor and confidant over the years, who taught GIS at our department for many decades. Leo and Yoh spoke extensively about modifying this course to a more “modern” approach, and I am delighted and honored to uphold his legacy moving forward.
 
-Second, I have taken the liberty (with permission) to borrow ideas and materials from other courses. I specifically took inspiration from [Paul Waddell](https://ced.berkeley.edu/ced/faculty-staff/paul-waddell)’s “[Urban Informatics and Visualization](https://github.com/waddell/CP255)” course at UC Berkeley, and [Geoff Boeing](https://geoffboeing.com/about/)’s “[Data, Evidence, and Communication for the Public Good](https://github.com/gboeing/ppd534)” at the Department of Urban Planning and Spatial Analysis at USC’s Sol Price School of Public Policy.
+Third, we have taken the liberty (with permission) to borrow ideas and materials from other courses. IWe specifically took inspiration from [Paul Waddell](https://ced.berkeley.edu/ced/faculty-staff/paul-waddell)’s “[Urban Informatics and Visualization](https://github.com/waddell/CP255)” course at UC Berkeley, and [Geoff Boeing](https://geoffboeing.com/about/)’s “[Data, Evidence, and Communication for the Public Good](https://github.com/gboeing/ppd534)” at the Department of Urban Planning and Spatial Analysis at USC’s Sol Price School of Public Policy.
 
 ## Course materials
 
@@ -132,17 +137,17 @@ Late assignments will be marked down one grade for each day it is late. For exam
 
 Week | Topic
 --- | ---
-Week 1 | [Introduction to spatial data science](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week01%20Intro)
-Week 2 | [Data in Urban Studies: The challenge in data acquisition](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week02%20Spatial%20Data%20Exploration)<br> → [Group assignment #1: Project Proposal](Group%20Assignments/GroupAssignment1.md)
-Week 3 | [Understanding communities: Census data profiles](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week03%20Census%20Data)<br> →   [Group assignment #2: Census Data Exploration](Group%20Assignments/GroupAssignment2.md)
-Week 4 | Open Street Maps](https://github.com/yohman/23W-UP221/tree/main/Weeks/Week04%20Open%20data)
-Week 5 | Open data and APIs](Weeks/Week05)
-Week 6 | Mid-terms](Weeks/Week06)<br> →  Midterms](Midterm%20and%20Finals)
-Week 7 | [Geocoding, multiple overlays, and functions](Weeks/Week07)<br> →  [Group assignment #3: Data Visualization](Group%20Assignments/GroupAssignment3.md)
-Week 8 | [Spatial statistics](Weeks/Week08)
-Week 9 | [Point pattern analysis](Weeks/Week09)<br> →  [Group assignment #4: Spatial Analysis](Group%20Assignments/GroupAssignment4.md)
-Week 10 |[Remote Sensing and Sentiment Analysis](Weeks/Week10)
-Finals Week | [Finals](Midterm%20and%20Finals)
+Week 1 | [Introduction to spatial data science](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week01%20Intro)
+Week 2 | [Data in Urban Studies: The challenge in data acquisition](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week02%20Spatial%20Data%20Exploration)<br> → [Group assignment #1: Project Proposal](https://github.com/cgiamarino9/24W-UP221/blob/main/Group%20Assignments/GroupAssignment1.md)
+Week 3 | [Understanding communities: Census data profiles](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week03%20Census%20Data)<br> →   [Group assignment #2: Census Data Exploration](https://github.com/cgiamarino9/24W-UP221/blob/main/Group%20Assignments/GroupAssignment2.md)
+Week 4 | [Open Data and APIs](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week04%20Open%20data)
+Week 5 | [Open street maps](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week05%20Open%20Street%20Map)
+Week 6 | [Mid-terms](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week06)<br> →  [Midterms](https://github.com/cgiamarino9/24W-UP221/tree/main/Midterm%20and%20Finals)
+Week 7 | [Geocoding, multiple overlays, and functions](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week07%20Isochrone%20Maps)<br> →  [Group assignment #3: Data Visualization](https://github.com/cgiamarino9/24W-UP221/blob/main/Group%20Assignments/GroupAssignment3.md)
+Week 8 | [Spatial statistics](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week08%20Spatial%20Autocorrelation)
+Week 9 | [Point pattern analysis](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week09%20Point%20Patterns)<br> →  [Group assignment #4: Spatial Analysis](https://github.com/cgiamarino9/24W-UP221/blob/main/Group%20Assignments/GroupAssignment3.md)
+Week 10 |[Remote Sensing and Sentiment Analysis](https://github.com/cgiamarino9/24W-UP221/tree/main/Weeks/Week10-Metro%20scraping%20and%20remote%20sensing)
+Finals Week | [Finals](https://github.com/cgiamarino9/24W-UP221/tree/main/Midterm%20and%20Finals)
 
 ## How to ask a technical question
 
@@ -152,8 +157,9 @@ Before asking a question:
 
 1. Close all open programs, restart your computer, then try your task again
 2. Search google and stackoverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
-3. Go back through the relevant lecture materials to look for any insights
-4. Go back through the assigned reading materials to look for any insights
+3. Check out GitHub's [CoPilot AI coding helper](https://docs.github.com/en/copilot/quickstart). It is free with a [GitHub Educator profile](https://education.github.com/), which you need to provide proof of enrollment such as a photo of your UCLA ID. 
+4. Go back through the relevant lecture materials to look for any insights
+5. Go back through the assigned reading materials to look for any insights
 
 If the above steps haven't solved your problem, send an email (or attend office hours) and include the following information:
 
