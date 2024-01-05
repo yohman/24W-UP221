@@ -2,7 +2,7 @@
 marp: true
 theme: uncover
 headingDivider: 3
-footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/yoh%20with%20globe.png)
+footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
 paginate: true
 
 ---
@@ -27,9 +27,9 @@ Spatial Data Exploration
 
 </xl>
 
-https://ucla.zoom.us/j/96734931456
+[Course zoom link for Winter Quarter 2024](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
-January 16, 2023
+January 15, 2024
 
 ##
 <xl>
@@ -41,26 +41,26 @@ January 16, 2023
 ##
 
 <xl>
-A little taste of the Japanese countryside
+Making space at the West LA Courthouse
 </xl>
 
 ##
 
-![bg](images/kyotanabe1.png)
+![bg](../images/contest1.jpg)
 
 ##
 
-![bg](images/kyotanabe2.png)
+![bg](../images/contest2.jpg)
 
 ##
 
-![bg](images/kyotanabe3.png)
+![bg](../images/contest3.jpg)
 
 
 ## Hands on Lab
 First, grab the course material, and "pull" it into your JupyterHub:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F23W-UP221&urlpath=lab%2Ftree%2F23W-UP221%2F&branch=main) 
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) 
 (This link will automatically launch JupyterHub and clone the course material into your directory)
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
@@ -133,4 +133,4 @@ Commit your changes to your GitHub repo by following these instructions:
 
 ### Submit your assignment 
 
-The last step is to submit your assignment to the class repo discussion section [here](https://github.com/yohman/23W-UP221/discussions/4).
+The last step is to submit your assignment to the class repo discussion section [here](https://github.com/cgiamarino9/24W-UP221/discussions/4).
