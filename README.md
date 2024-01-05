@@ -131,7 +131,7 @@ Late assignments will be marked down one grade for each day it is late. For exam
 
 ### Preparation
 
-*   Fill out the [pre-class survey](https://forms.gle/f8ZXLgNbvFawt6cw5)
+*   Fill out the [pre-class survey](https://docs.google.com/forms/d/e/1FAIpQLSfs2NtxTY5HTcT6fr3-5TqoiD0fVcWptpjRifR1NU6v5jdXRg/viewform?vc=0&c=0&w=1&flr=0) 
 *   If you do not have a GitHub account, create one for the class
 	*   [https://github.com/](https://github.com/)
 *   Make sure you can log into the class JupyterHub
