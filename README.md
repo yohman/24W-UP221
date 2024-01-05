@@ -4,6 +4,8 @@ Winter 2024
 
 Mondays 5pm - 7:50pm
 
+[Recurring Zoom link](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
+
 ## Course format:
 
 **Live-Online/Synchronous**
