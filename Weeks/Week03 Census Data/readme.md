@@ -2,7 +2,7 @@
 marp: true
 theme: uncover
 headingDivider: 3
-footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/yoh%20with%20globe.png)
+footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
 paginate: true
 
 ---
@@ -28,9 +28,10 @@ Census Data Exploration
 
 </xl>
 
-https://ucla.zoom.us/j/96734931456
+[Course zoom link for Winter Quarter 2024](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
-January 23, 20244
+
+January 22, 20244
 
 ##
 <xl>
@@ -42,24 +43,24 @@ January 23, 20244
 ##
 
 <xl>
-A little taste of the Japanese countryside
+Street art in Italy
 </xl>
 
 ##
 
-![bg](images/bullet1.png)
+![width:500px](../images/cigs.JPG)
 
 ##
 
-![bg](images/bullet2.png)
+![bg](../images/gator.JPG)
 
 ##
 
-![bg](images/bullet3.png)
+![bg](../images/rome.JPG)
 
 ##
 
-![bg](images/bullet4.png)
+![bg](../images/stairsArt.JPG)
 
 
 ## Hands on Lab
@@ -118,7 +119,7 @@ Your project proposal should include the following:
 *   A concluding paragraph of what insights you expect to gain from your research
 
 ### Step 5: Submit
-Submit your assignment [here](https://github.com/yohman/23W-UP221/discussions/5)
+Submit your assignment [here](https://github.com/cgiamarino9/24W-UP221/discussions/9)
 
 ## Group Assignment #2
 
@@ -162,4 +163,4 @@ For this group assignment, each group member will create and submit a separate J
 
 ### Step 3: Submit
 
-- Submit your assignment by posting a link to your notebook [here](https://github.com/yohman/23W-UP221/discussions/6).
+- Submit your assignment by posting a link to your notebook [here](https://github.com/cgiamarino9/24W-UP221/discussions/5).
