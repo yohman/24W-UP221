@@ -70,7 +70,7 @@ January 8, 2024
 * Slack: **ALL** coding questions must be posted on slack
 * [the ultimate T.A.'s guide to success](https://docs.google.com/document/d/14fz3iSSb76PDiyqY8ZGDpao3umKMgvvR5NtvQwOsJao/edit)
 * Waitlist student considerations
-  * Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
+  * Next week we will create our groups! If you must drop the course, please do so before the next class.
 
 ## Class spirit
 
