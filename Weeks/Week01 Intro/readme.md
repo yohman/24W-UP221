@@ -50,6 +50,12 @@ January 8, 2024
 ![width:600px](../images/thrasherCSEF.jpg)
 ![bg right:40%](../images/c1.jpg)
 
+## My doctoral dissertation in urban planning from UCLA
+[Planning just public space](https://escholarship.org/uc/item/7gn2j60q)
+
+##
+![bg](../images/diy.png)
+
 # Overview of the course
 ##
 
