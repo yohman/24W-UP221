@@ -82,6 +82,7 @@ Third, we have taken the liberty (with permission) to borrow ideas and materials
 The course will almost entirely be conducted on Jupyter Notebooks. A [JupyterHub](https://jupyter.idre.ucla.edu), a web-based Jupyter Notebook environment, has been set up specifically for this class, and is available at the following [URL](https://jupyter.idre.ucla.edu). Note that you will need multi-factored authentication to login:
 
 *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
+* [Course slack](https://join.slack.com/t/24w-up221/shared_invite/zt-2a3ipi7fa-J2T3HyDezDLVabcIzG7V_w)
 
 Weekly course materials, including presentations, interactive notebooks (.ipynb), and data will be made available through a course github repository (here) that you will interact with through your JupyterHub account.
 

@@ -56,6 +56,7 @@ January 8, 2024
 * Mark your [attendance ✅](https://docs.google.com/spreadsheets/d/15hvcbzJbfwa70KvKMWUG63oyRWaY_NEfx4pVJpi_f6w/edit?usp=sharing) 
 * Fill out the [pre-class](https://docs.google.com/forms/d/e/1FAIpQLSfs2NtxTY5HTcT6fr3-5TqoiD0fVcWptpjRifR1NU6v5jdXRg/viewform?vc=0&c=0&w=1&flr=0&pli=1) poll if you haven't already ☑️
 * Go over the [Syllabus](https://github.com/cgiamarino9/24W-UP221) 📜
+* Sign up for the course [Slack channel](https://join.slack.com/t/24w-up221/shared_invite/zt-2a3ipi7fa-J2T3HyDezDLVabcIzG7V_w). We will collaborate, code, and troubleshoot there. 
 
 ## Meet your TA's
   * Ariella Ventura 
