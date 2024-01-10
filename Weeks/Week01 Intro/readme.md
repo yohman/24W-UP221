@@ -106,7 +106,7 @@ Today's lab will cover the following topics:
 
 # Individual Assignments
 
-There are three deliverables this week. Each are due on Sunday by midnight. Each assignment must be posted in the [class discussion section](https://github.com/cgiamarino9/24W-UP221/discussions).
+There are three deliverables this week. Each are due on Sunday by midnight. Week 1's assignments are due January 14th, 2024 by 11:59 PM. Each assignment must be posted in the [class discussion section](https://github.com/cgiamarino9/24W-UP221/discussions).
 
 ## #1. Create a GitHub account, and start a new repo
 

@@ -29,9 +29,9 @@ Open Data Exploration
 
 </xl>
 
-https://ucla.zoom.us/j/96734931456
+[Course Zoom](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
-January 31, 2023
+January 29, 2024
 
 ##
 <xl>
@@ -89,7 +89,7 @@ A little taste of the Japanese countryside
 ## Hands on Lab
 First, grab the course material, and "pull" it into your JupyterHub:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F23W-UP221&urlpath=lab%2Ftree%2F23W-UP221%2F&branch=main) 
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) 
 (This link will automatically launch JupyterHub and clone the course material into your directory)
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
@@ -108,7 +108,7 @@ Mapping arrests
 </xl>
 
 
-# Assignments (due 23:59 Sunday, the day before class)
+# Assignments (due 11:59 Sunday, February 4 the day before class)
 
 
 ## Mini Group Assignment

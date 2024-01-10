@@ -29,15 +29,15 @@ Open Street Map
 
 </xl>
 
-https://ucla.zoom.us/j/96734931456
+[Course Zoom](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
-February 6, 2023
+February 5, 2024
 
 ## Let's pull
 
 First, grab the course material, and "pull" it into your JupyterHub:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F23W-UP221&urlpath=lab%2Ftree%2F23W-UP221%2F&branch=main) 
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) 
 (This link will automatically launch JupyterHub and clone the course material into your directory)
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
@@ -90,7 +90,7 @@ A little taste of the Japanese countryside
 </xl>
 
 
-# Midterms (Materials due 5pm Monday, the day of class!)
+# Midterms (Materials due 5pm Monday, February 12 the day of class!)
 
 - [Midterms](../../Midterm%20and%20Finals)
 - Presentations
@@ -106,4 +106,4 @@ A little taste of the Japanese countryside
 - Talk to the audience, not your computer or the screen
 - Show your passion!
 
-Submit your midterm materials [here](https://github.com/yohman/23W-UP221/discussions/9)
+Submit your midterm materials [here](https://github.com/cgiamarino9/24W-UP221/discussions/8)

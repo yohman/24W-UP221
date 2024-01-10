@@ -67,7 +67,7 @@ First, grab the course material, and "pull" it into your JupyterHub:
 </small>
 
 
-# Assignments (due 23:59 Sunday, the day before class)
+# Assignments (due 11:59 Sunday, January 21st the day before class)
 
 
 ## Individual assignment: Data Exploration

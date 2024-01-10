@@ -31,7 +31,7 @@ Census Data Exploration
 [Course zoom link for Winter Quarter 2024](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
 
-January 22, 20244
+January 22, 2024
 
 ##
 <xl>
@@ -73,7 +73,7 @@ First, grab the course material, and "pull" it into your JupyterHub:
 </small>
 
 
-# Assignments (due 23:59 Sunday, the day before class)
+# Assignments (due 11:59 Sunday, January 28th the day before class)
 
 
 ## Group Assignment #1
