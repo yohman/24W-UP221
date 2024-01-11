@@ -3,7 +3,7 @@ marp: true
 theme: uncover
 headingDivider: 3
 footer: UP221 | Intro to GIS and Spatial Data Science 
-# ![width:30px](../images/yoh%20with%20globe.png)
+# ![width:30px](../images/globe.png)
 paginate: true
 
 ---
@@ -54,7 +54,7 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 
 <xl>
-Kyoto Tondo Festival
+Sidewalk characters abroad
 </xl>
 <br>
 A little taste of the Japanese countryside
