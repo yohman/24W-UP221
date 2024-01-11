@@ -38,7 +38,7 @@ February 5, 2024
 First, grab the course material, and "pull" it into your JupyterHub:
 
 * [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) 
-(This link will automatically launch JupyterHub and clone the course material into your directory)
+(This link will automatically launch JupyterHub and clone the course material into your directory). You can also use [Terminal in JupyterHub to change the directory and pull](https://medium.com/@pinglinh/how-to-use-git-pull-80ad77a8afc6)
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
 </small>
