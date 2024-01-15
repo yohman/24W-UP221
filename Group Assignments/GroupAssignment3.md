@@ -36,5 +36,5 @@ For those of you who are ahead of the game, congratulations! But let's not get o
 
 ## Submit
 
-Submit a link to your jupyter notebook [here](https://github.com/yohman/23W-UP221/discussions/10)
+Submit a link to your jupyter notebook [here](https://github.com/cgiamarino9/24W-UP221/discussions/10)
 
