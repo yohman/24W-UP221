@@ -56,6 +56,16 @@ Making space at the West LA Courthouse
 
 ![bg](../images/contest3.jpg)
 
+##
+
+![bg](../images/contest4.jpg)
+
+##
+
+![bg](../images/contest5.jpg)
+
+
+
 
 ## Hands on Lab
 First, grab the course material, and "pull" it into your JupyterHub:
@@ -76,13 +86,13 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 In order to pull and push content to GitHub, you must first create a token, which will serve as your password. Refer to this tutorial to create your token:
 
-* [How to create a token](../../Git%20related/Create%20a%20token.md)
+* [How to create a token](https://github.com/cgiamarino9/24W-UP221/blob/main/Git%20related/Create%20a%20token.md)
 
 ### Clone your repo
 
 This is your first code assignment submission. Before you begin, create a clone of your repo in JupyterHub.
 
-* [How to clone your repo into JupyterHub](../../Git%20related/Clone%20repo%20to%20hub.md)
+* [How to clone your repo into JupyterHub](https://github.com/cgiamarino9/24W-UP221/blob/main/Git%20related/Clone%20repo%20to%20hub.md)
 
 ### Submission guidelines:
 
@@ -94,13 +104,13 @@ This is your first code assignment submission. Before you begin, create a clone 
 Create a new python notebook 
 **Do not** work on a copy of the lab notebook
 
-<kbd><img src="images/notebook.png"></kbd>
+<kbd><img src="images/notebook.png" width=75%></kbd>
 
 ###
 
-Right click on the `Untitled.ipynb` tab and rename the notebook to `week 1 assignment.ipynb`
+Right click on the `Untitled.ipynb` tab and rename the notebook to `week2assignment.ipynb` or `assignment2.ipynb`. Just be consistent throughout the quarter. 
 
-<kbd><img src="images/rename.png"></kbd>
+<kbd><img src="images/rename.png" height=75% ></kbd>
 
 ###
 
@@ -129,7 +139,7 @@ Save your notebook.
 
 Commit your changes to your GitHub repo by following these instructions:
 
-* [How to commit and push to your repo](../../Git%20related/Commit%20and%20push.md)
+* [How to commit and push to your repo](https://github.com/cgiamarino9/24W-UP221/blob/main/Git%20related/Commit%20and%20push.md)
 
 ### Submit your assignment 
 

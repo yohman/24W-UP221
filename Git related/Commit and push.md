@@ -21,4 +21,4 @@ If this does not work, in Terminal type ```git push```. HINT: I prefer to do thi
 
 <kbd><img src="images/push.png"></kbd>
 
-WARNING: If you manually upload or edit your markdown, images, data directly on your GitHub website. You will have to open Terminal before you start working on future assignments, switch to your repository, and run the [```git pull``` command](https://git-scm.com/docs/git-pull). 
+WARNING: If you manually upload or edit your markdown, images, data directly on your GitHub website. You will have to open Terminal before you start working on future assignments, switch to your repository, and run [```git pull```](https://git-scm.com/docs/git-pull). 
