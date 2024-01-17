@@ -82,14 +82,14 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 <left>
 
-The course will largely be guided by your final project, which will be conducted in pairs. Consider that your final project will be a representation of what you learn in this course, and how you apply it on a project level. Consider also that your final project can serve to showcase your data science and mapping skills, which may become a valuable asset for your career moving forward.
+The course will largely be guided by your final project, which will be conducted in groups of 4-5. Consider that your final project will be a representation of what you learn in this course, and how you apply it on a project level. Consider also that your final project can serve to showcase your data science and mapping skills, which may become a valuable asset for your career moving forward.
 
 
 ### Step 1: Plan
 <hr>
 
 <left>
-Meet with your partner, discuss and identify a research question, identify and collect data, articulate how you intend to use and analyze it, and begin to speculate how the data can answer your research inquiry. Understand that this may change later, especially as we learn more about what we can do with our methods, and also, as you find the data sources that can or cannot support your research.
+Meet with your groups, discuss and identify a research question, identify and collect data, articulate how you intend to use and analyze it, and begin to speculate how the data can answer your research inquiry. Understand that this may change later, especially as we learn more about what we can do with our methods, and also, as you find the data sources that can or cannot support your research.
 
 ### Step 2: Data
 <hr>
