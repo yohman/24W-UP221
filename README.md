@@ -38,7 +38,7 @@ Ben Winjum (bwinjum@ucla.edu)
 
 * Ariella, Tuesdays from 1-3 pm (schedule via email/Zoom)
 
-* Lucy, Mondays from 2 - 4 pm (schedule via email/Zoom)
+* Lucy, Thursdays from 4 - 6 pm (schedule via email/Zoom)
 
 ## Course Description
 
