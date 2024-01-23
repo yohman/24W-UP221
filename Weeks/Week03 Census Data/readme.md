@@ -50,18 +50,36 @@ Street art in Italy
 
 ![width:500px](../images/cigs.JPG)
 
-##
-
-![bg](../images/gator.JPG)
 
 ##
 
 ![bg](../images/rome.JPG)
 
+
 ##
 
-![bg](../images/stairsArt.JPG)
+![bg](../images/gator.JPG)
 
+##
+<xl>
+My rainy weekend ...
+</xl>
+
+##
+
+![width:700px](../images/courts.JPG)
+
+##
+
+![bg](../images/burbank.JPG)
+
+##
+
+![width:700px](../images/blue.JPG)
+
+##
+
+![width:700px](../images/walts.JPG)
 
 ## Hands on Lab
 First, grab the course material, and "pull" it into your JupyterHub:
