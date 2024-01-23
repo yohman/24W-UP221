@@ -2,8 +2,7 @@
 marp: true
 theme: uncover
 headingDivider: 3
-footer: UP221 | Intro to GIS and Spatial Data Science 
-# ![width:30px](../images/yoh%20with%20globe.png)
+footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png) 
 paginate: true
 
 ---
@@ -43,46 +42,36 @@ January 29, 2024
 ##
 
 <xl>
-Fukushima
+Drifting, walking, skateboarding...
 </xl>
 <br>
-A little taste of the Japanese countryside
+Public sidewalk characters and the sidewalk ballet
 
 ##
-![bg](images/japan%20map.png)
+![width:720px](../images/ams2-min.JPG) 
 
 ##
-![bg](images/mt%20fuji.jpg)
+![width:720px](../images/berlin2-min.JPG)
 
 ##
-![bg](images/snowy%20morning.jpg)
+![width:720px](../images/cph1-min.JPG)
 
 ##
-![bg](images/megasolar.png)
+![width:720px](../images/dessert-min.JPG)
 
 ##
-![bg](images/me%20on%20breakwaters.jpg)
+![width:720px](../images/fish-min.JPG)
 
 ##
-![bg](images/breakwaters.jpg)
+![width:720px](../images/dog-min.JPG)
 
 ##
-![bg](images/photojournalists.jpg)
+![width:720px](../images/warsaw3.JPG)
 
 ##
-![bg](images/high%20radiation%20reading.jpg)
+![width:720px](../images/pastaGranny-min.JPG)
 
-##
-![bg](images/soba1.jpg)
 
-##
-![bg](images/soba2.jpg)
-
-##
-![bg](images/soba3.jpg)
-
-##
-![bg](images/soba4.jpg)
 
 
 
@@ -115,7 +104,7 @@ Mapping arrests
 
 <left>
 
-For this week's group assignment, meet with your partner and submit a status report as a markdown file in your group repo. This will simply be graded as a "done" or "not done" and count towards your participation grade.
+For this week's group assignment, meet with your group members and submit a status report as a markdown file in your group repo. This will simply be graded as a "done" or "not done" and count towards your participation grade.
 </left>
 
 ### Instructions
@@ -138,7 +127,7 @@ Include the following sections:
 
 ### Submit
 
-Submit your updated proposal [here](https://github.com/yohman/23W-UP221/discussions/7).
+Submit your updated proposal [here](https://github.com/cgiamarino9/24W-UP221/discussions/7).
 
 ## Individual Coding Assignment
 
@@ -163,6 +152,6 @@ This assignment can be as long or as short as you desire. It is meant to review 
 - provide ample markdown cells (preferrably before and after each code cell) that explains what you are going to do, and how you interpret the results)
 - upload your notebook to your GitHub account
 
-Submit a link to your notebook [here](https://github.com/yohman/23W-UP221/discussions/8).
+Submit a link to your notebook [here](https://github.com/cgiamarino9/24W-UP221/discussions/6).
 
 
