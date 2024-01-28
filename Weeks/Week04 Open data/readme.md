@@ -40,6 +40,26 @@ January 29, 2024
 </xl>
 
 ##
+<xl>
+
+[Preferred office hours poll](https://calendly.com/d/3y4-86p-5h4/half-hour-office-hours-to-discuss-group-proposal) 
+</xl>
+<br>
+
+<p style="text-align: left"> <font size ="12">
+Pick two days and two hour time slots that work for you for virtual office hours. I am also available via email and slack.</font></p> 
+
+##
+<xl>
+
+[30 minute group meeting with instructor](https://calendly.com/d/3y4-86p-5h4/half-hour-office-hours-to-discuss-group-proposal) 
+
+</xl>
+<br>
+<p style="text-align: left"> 
+I will also provide a detailed email with feedback, additional data sources, and python library modules and funcions you will want to look into for your group projects before the midterm on week 6. </p>
+
+##
 
 <xl>
 Drifting, walking, skateboarding...
