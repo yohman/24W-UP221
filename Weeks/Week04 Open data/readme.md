@@ -42,7 +42,7 @@ January 29, 2024
 ##
 <xl>
 
-[Preferred office hours poll](https://calendly.com/d/3y4-86p-5h4/half-hour-office-hours-to-discuss-group-proposal) 
+[Preferred office hours poll](https://docs.google.com/forms/d/e/1FAIpQLSeLw-b8XXS72hp2BjaO1zU87H5s4_bAxj-Ur_yNza0sX1BEYQ/viewform?vc=0&c=0&w=1&flr=0) 
 </xl>
 <br>
 
@@ -52,7 +52,7 @@ Pick two days and two hour time slots that work for you for virtual office hours
 ##
 <xl>
 
-[30 minute group meeting with instructor](https://calendly.com/d/3y4-86p-5h4/half-hour-office-hours-to-discuss-group-proposal) 
+[30 minute group meeting with instructor sheet](https://docs.google.com/spreadsheets/d/1DXqucpqfVam-1Jj9m8cBfWfkWU_akzfykvCaca7HxXY/edit?usp=sharing) 
 
 </xl>
 <br>
