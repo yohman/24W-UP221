@@ -46,8 +46,8 @@ January 29, 2024
 </xl>
 <br>
 
-<p style="text-align: left"> <font size ="12">
-Pick two days and two hour time slots that work for you for virtual office hours. I am also available via email and slack.</font></p> 
+<p style="text-align: left"> <font size ="6">
+I am currently hosting office hours after class for one hour from 8 pm to 9 pm. Please pick one additional day and time that works for you on this Google Poll. If Monday after class does not work for the majority of you, pick two days and two hour time slots that work for you for virtual office hours. I am also available via email and slack.</font></p> 
 
 ##
 <xl>
@@ -57,7 +57,7 @@ Pick two days and two hour time slots that work for you for virtual office hours
 </xl>
 <br>
 <p style="text-align: left"> 
-I will also provide a detailed email with feedback, additional data sources, and python library modules and funcions you will want to look into for your group projects before the midterm on week 6. </p>
+If you and your group would like to meet with me for 30 minutes to discuss your proposal, data sources, and python modules/libraries that may benefit your project, please sign up for a time slot on the Google Sheet. Otherwise, I will provide a detailed email with feedback, additional data sources, and python library modules and funcions you will want to look into for your group projects before the midterm on week 6. </p>
 
 ##
 
