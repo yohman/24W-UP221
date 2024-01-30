@@ -34,7 +34,7 @@ Ben Winjum (bwinjum@ucla.edu)
 
 ## Office Hours: 
 
-* Chris (schedule via email, will stay after class for office hours)
+* Chris, Mondays 8 - 9 pm after class (schedule via email, will stay after class for office hours)
 
 * Ariella, Tuesdays from 1-3 pm (schedule via email/Zoom)
 
