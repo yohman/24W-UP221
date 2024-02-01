@@ -2,15 +2,14 @@
 Recordings will be made available within a day after the class. These recordings are password protected and only available to students who are currently enrolled.
 
 [Week 1 Welcome and Python Boot Camp](https://ucla.zoom.us/rec/share/OH2s_skoMy1ge8hjCm8FlS_ig8r5OBBHu6sqpQMYpLz4qmwuUp-LejYa1P7uosU.YKID7-XBsJY8F5Zb)
-- Lab section starts at around 45 minute mark
+
 
 [Week 2 Spatial Data Exploration](https://ucla.zoom.us/rec/share/8tuPDhcPttNN0pMbmGouiWJKgo-CIqygF06053i7SaYNbUMjakky6QiA1y1eUJbQ.3E5W-MGsP0nDk675)
 
 [Week 3 Census Data Exploration](https://ucla.zoom.us/rec/share/Pm_BL-w8uwr-ghJiheXxpzHVnA0K-WJeqzWwPyO3pnRpn5r7HPjdV2to2aYB_0yq.N0A4LTLTbsFcr3ly)
 
-[Week 4 Open Data Exploration](https://ucla.zoom.us/rec/share/Yxo093ZIApdumNDD4MfHlBp-IgOAUVZBFx4EUhzsw_Am15-IXqLlwGc9PTZqW1su.xn_4jvsNY8-Amfga)
-- First lab on Fatal Force data starts right away
-- Second lab on LA crime data starts around the 1:10 mark
+[Week 4 Open Data Exploration](https://ucla.zoom.us/rec/share/EItZJHpcz99YTehtX_-4DbF5wgRqg9ABRnMhvDj6hpeRU_Mgu65tTNwoprrkTGNM.JcuvDOdiCIcBHIP9)
+
 
 [Week 5 Open Street Map](https://ucla.zoom.us/rec/share/-O4h4jkupZOFt_K_rRG2Ko_Erq4nxstxp9tdpKpzq2ELIwaVUpReDqwcvI0PHpPq.zPUHcJ9POYUXZwHa)
 
