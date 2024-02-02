@@ -168,7 +168,7 @@ If the above steps haven't solved your problem, send an email (or attend office 
 
 1. A detailed description of what you're trying to do, why, and how
 2. A complete [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code)
-3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-4 above, including relevant links from stackoverflow etc)
+3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-5 above, including relevant links from stackoverflow etc)
 
 ## Readings and Resources
 
