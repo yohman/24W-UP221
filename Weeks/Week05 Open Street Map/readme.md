@@ -49,40 +49,6 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 </xl>
 
-##
-
-
-<xl>
-Skateparks
-</xl>
-<br>
-recreation by bicycle
-
-##
-
-![bg](../images/dublin3.JPG)
-
-##
-
-![bg](../images/dublin1.JPG)
-
-##
-
-![bg](../images/dublin2.JPG)
-
-##
-
-![bg](../images/ams1.jpg) <span style='font-size:100px; float:left;'>:sob:</span> 
-
-##
-
-![bg](../images/romeSkate1.jpg)
-
-##
-
-![bg](../images/romeSkate2.jpg)
-
-
 
 # Hands on Lab
 
