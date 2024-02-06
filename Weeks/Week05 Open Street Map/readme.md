@@ -24,7 +24,7 @@ left {text-align:left;}
 
 <xl>
 
-Open Street Map
+Open Street Map (OSMNX)
 
 </xl>
 
