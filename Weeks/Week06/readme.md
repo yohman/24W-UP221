@@ -8,19 +8,19 @@ Order to be determined during class:
 
 Topic | Students
 --|--
+Food Access in LA County | Branden Bohrnsen, Jessica Fay, Madilynn Hamilton, Meaghan Woody
+Planner for Climate Justice | Max Kilman, Allison Kirste, Nasir Sakandar, Jazz Henry
 Climate Group | Aneesa Gomez-Cervantes, Pa-Shun Hawkins, Yu Wang
-LA County Oil Wells | Madalyn Bryant, Katie Greenler, Myranda Arreola, Luis Garcia Chavez, Divine Mutoni
-Food Access and Heart Health in LA County | Branden Bohrnsen, Jessica Fay, Madilynn Hamilton, Meaghan Woody
-Collisions in West LA | Sonia Garfinkel, Fonda Hu, Nick Giorgio, Eisha Shakeel, Leila Moinpour
-Spatial Exploration of Eviction in LA County | Kristal Ombogo, Jack Fukushima, Daisy Mugodzeri, Roberto Diaz
+Confronting Collisions | Sonia Garfinkel, Fonda Hu, Nick Giorgio, Eisha Shakeel, Leila Moinpour
+Wildfire | Chendi Zhang
+NutriNet | Maya Coronado, Savannah Gourley, Ashley Jahja, Xander Lee, Kiran Rao
+Evictions Resisters | Kristal Ombogo, Jack Fukushima, Daisy Mugodzeri, Roberto Diaz
 Transit Corridors | Alain Jabbour, Simon Han, Tomohiro Ujikawa, Celine Cao
-Income, Commute Time, and Health | Angie Chapman, Jala Abner, Jose Portales, Young Choi
-The distribution characteristics of traffic safety events in Los Angeles | Catherine Ren, Jiaming Zhu, Kailong Ji, Yaofa Gong, Qingyang Xu
-Preliminary Spatial Analysis of Shade in Westlake, Los Angeles | Max Kilman, Allison Kirste, Nasir Sakandar, Jazz Henry
-Feeding the Future: Mapping Food Insecuritys Impact on Birth Outcomes In Los Angeles Count | Maya Coronado, Savannah Gourley, Ashley Jahja, Xander Lee, Kiran Rao
-Climate Hazards and Wildfires | Chendi Zhang
-Demographic Disparities in Transportation in metro-Detroit | Ashkay Jalluri
-Park Equity In Unincorporated Los Angeles | Miles Kim Parr, Max Garcia, Aydin Pasebani, Annie Chan, Rodrigo Gutierrez
+Motor City Motor Equity | Ashkay Jalluri
+Park Equity In Unincorporated LA | Miles Kim Parr, Max Garcia, Aydin Pasebani, Annie Chan, Rodrigo Gutierrez
+LA County Oil Wells | Madalyn Bryant, Katie Greenler, Myranda Arreola, Luis Garcia Chavez, Divine Mutoni
+Grid Lock Gurus | Angie Chapman, Jala Abner, Jose Portales, Young Choi
+Anti-Road Rage | Catherine Ren, Jiaming Zhu, Kailong Ji, Yaofa Gong, Qingyang Xu
 
 ## Assignments
 
