@@ -16,7 +16,7 @@ Wildfire | Chendi Zhang
 NutriNet | Maya Coronado, Savannah Gourley, Ashley Jahja, Xander Lee, Kiran Rao
 Evictions Resisters | Kristal Ombogo, Jack Fukushima, Daisy Mugodzeri, Roberto Diaz
 Transit Corridors | Alain Jabbour, Simon Han, Tomohiro Ujikawa, Celine Cao
-Motor City Motor Equity | Ashkay Jalluri
+Motor City Motor Equity | Akshay Jalluri
 Park Equity In Unincorporated LA | Miles Kim Parr, Max Garcia, Aydin Pasebani, Annie Chan, Rodrigo Gutierrez
 LA County Oil Wells | Madalyn Bryant, Katie Greenler, Myranda Arreola, Luis Garcia Chavez, Divine Mutoni
 Grid Lock Gurus | Angie Chapman, Jala Abner, Jose Portales, Young Choi
