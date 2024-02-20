@@ -2,8 +2,7 @@
 marp: true
 theme: uncover
 headingDivider: 3
-footer: UP221 | Intro to GIS and Spatial Data Science 
-# ![width:30px](../images/yoh%20with%20globe.png)
+footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
 paginate: true
 
 ---
@@ -29,16 +28,16 @@ Isochrone Maps
 
 </xl>
 
-https://ucla.zoom.us/j/96734931456
+[Course Zoom](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
-February 22, 2023
+February 20, 2024
 
 ## Let's pull
 
 First, grab the course material, and "pull" it into your JupyterHub:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F23W-UP221&urlpath=lab%2Ftree%2F23W-UP221%2F&branch=main) 
-(This link will automatically launch JupyterHub and clone the course material into your directory)
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) 
+(This link will automatically launch JupyterHub and clone the course material into your directory). 
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
 </small>
@@ -54,34 +53,47 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 
 <xl>
-Morning Run
+My weekend at Slow Impact 2
 </xl>
 <br>
-A little taste of the Japanese countryside
+A little taste of a skateboarding retreat, festival, and conference in Arizona
 
 ##
 
-![bg](images/run1.jpg)
+![](../images/airport.jpeg)
 
 ##
 
-![bg](images/run2.jpg)
+![bg](../images/mitchell.jpeg)
 
 ##
 
-![bg](images/run3.jpg)
+![bg](../images/waymo.jpeg)
 
 ##
 
-![bg](images/run4.jpg)
+![bg](../images/mustang.jpeg)
 
 ##
 
-![bg](images/run5.jpg)
+![bg](../images/asu.jpeg)
 
 ##
 
-![bg](images/run6.jpg)
+![bg](../images/curbs.jpeg)
+
+##
+![bg](../images/friends.jpeg)
+
+##
+![](../images/panel.png)
+
+##
+![bg](../images/sequence2.png)
+
+##
+
+![bg](../images/product.png)
 
 # Hands on Lab
 
@@ -106,6 +118,6 @@ Group Assignment #3
 
 </xl>
 
-[Instructions](../../Group%20Assignments/GroupAssignment3.md)
+[Instructions](https://github.com/cgiamarino9/24W-UP221/blob/main/Group%20Assignments/GroupAssignment3.md)
 
-Submit your assignment [here](https://github.com/yohman/23W-UP221/discussions/10)
+Submit your assignment [here](https://github.com/cgiamarino9/24W-UP221/discussions/10)
