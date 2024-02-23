@@ -2,8 +2,7 @@
 marp: true
 theme: uncover
 headingDivider: 3
-footer: UP221 | Intro to GIS and Spatial Data Science 
-# ![width:30px](../images/yoh%20with%20globe.png)
+footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
 paginate: true
 
 ---
@@ -21,7 +20,7 @@ section {font-size:2em;font-weight:300;}
 left {text-align:left;}
 </style>
 
-## Week 10: March 13, 2023
+## Week 10: March 11, 2024
 
 
 <xl>
@@ -30,15 +29,15 @@ Scraping, remote sensing, and TA magic
 
 </xl>
 
-https://ucla.zoom.us/j/96734931456
+[Course Zoom](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
 
 ## Let's pull
 
 First, grab the course material, and "pull" it into your JupyterHub:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F23W-UP221&urlpath=lab%2Ftree%2F23W-UP221%2F&branch=main) 
-(This link will automatically launch JupyterHub and clone the course material into your directory)
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) 
+(This link will automatically launch JupyterHub and clone the course material into your directory). 
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
 </small>
@@ -50,39 +49,12 @@ This course will be recorded<br><br>🎥
 
 </xl>
 
-##
 
-
-<xl>
-淡路島 Awajishima
-</xl>
-
-<br>
-
-
-##
-
-![bg](images/awaji.jpg)
-
-##
-![bg](images/fishermen%20chess.jpg)
-##
-
-![bg 80%](images/fisherman%201.jpg)
-![bg 80%](images/fisherman%202.jpg)
-
-##
-![bg](images/fishermen.jpg)
-
-##
-<xl>[Thick mapping](https://docs.google.com/presentation/d/1b3M9o0n50DcHpdlTCjqih-Qs5T45ORMl7lvZR_QcD3Y/edit?usp=sharing)
-
-</xl>
 
 ##
 
 <xl>
-Chris and Elliot
+Ariella and Lucy
 </xl>
 
 Our amazing spatial scholars
@@ -96,10 +68,11 @@ Our amazing spatial scholars
 ## Final project presentations
 
 <xl>
-March 20th, Monday 5pm~
+March 18th, Monday 5pm~
 
 </xl>
 
 <br>
 
-- [Submission guidelines](../../Midterm%20and%20Finals/#final-project-30-of-your-final-grade)
+- [Submission guidelines](https://github.com/cgiamarino9/24W-UP221/tree/main/Midterm%20and%20Finals#final-project-30-of-your-final-grade)
+- [Submit final materials here](https://github.com/cgiamarino9/24W-UP221/discussions/12)
