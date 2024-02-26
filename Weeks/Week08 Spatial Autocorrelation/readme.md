@@ -74,6 +74,17 @@ First, grab the course material, and "pull" it into your JupyterHub:
 ##
 <img src="../images/nytimes2.jpg" width="325   "/> <img src="../images/nytimes1.jpg" width="325"/> <img src="../images/nytimes3.jpg" width="325"/> 
 
+##
+<xl>
+
+[Thrasher Magazine recap of Slow Impact 2](https://www.thrashermagazine.com/articles/slow-impact-photo-recap/) 
+
+##
+![bg](../images/thrasher.jpg)
+
+</xl>
+
+
 ## Today's Agenda
 
 Lab: Part 1
