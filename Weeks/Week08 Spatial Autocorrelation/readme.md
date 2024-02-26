@@ -50,7 +50,29 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 </xl>
 
+##
+<xl>
 
+[A car is not a home](https://www.nytimes.com/interactive/2024/02/21/opinion/homelessness-crisis-america-stories.html?unlocked_article_code=1.XE0.NdbI.OxRCaxV6K_2j&smid=url-share) 
+
+</xl>
+<br>
+<em>New York Times</em> publication 
+
+##
+![bg](../images/car.png)
+
+##
+![width:900px](../images/car2.png)
+
+##
+![width:900px](../images/chloe.jpg)
+
+##
+![width:900px](../images/cars1_dog.jpg)
+
+##
+<img src="../images/nytimes2.jpg" width="325   "/> <img src="../images/nytimes1.jpg" width="325"/> <img src="../images/nytimes3.jpg" width="325"/> 
 
 ## Today's Agenda
 

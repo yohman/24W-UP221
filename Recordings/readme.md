@@ -19,10 +19,10 @@ Recordings will be made available within a day after the class. These recordings
 
 [Week 7 Isochrone Maps part 2](https://ucla.zoom.us/rec/share/DYGAw9tLa-MFnpQINEEPpY7MvHrWDZPLGroAZqvZgKDe7ItAuSrRlYUUglfqBQ_J.W14O6je_pJYeEqEj)
 
-[Week 8 Spatial Autocorrelation, Ana Maria](https://ucla.zoom.us/rec/share/zd6TEB63FpnViG_sco_HxuszY775gKk8e2FOjggeXV0OlMyKLvTycAYbjIYKkFxy.AC39n8_vIgU7WpVG)
+[Week 8 Spatial Autocorrelation](https://ucla.zoom.us/rec/share/zd6TEB63FpnViG_sco_HxuszY775gKk8e2FOjggeXV0OlMyKLvTycAYbjIYKkFxy.AC39n8_vIgU7WpVG)
 
-[Week 9 Point Patterns, Albert Kochaphum](https://ucla.zoom.us/rec/share/qiN65QNQS0xipQmAUkPIJnzhFGPJ21HEVpn3uj27DLWl-0nqTtOqzbesVq-X4_0q.79Y4vLmVOcZHJedi)
+[Week 9 Point Patterns, Ariella](https://ucla.zoom.us/rec/share/qiN65QNQS0xipQmAUkPIJnzhFGPJ21HEVpn3uj27DLWl-0nqTtOqzbesVq-X4_0q.79Y4vLmVOcZHJedi)
 
-[Week 10 Thick mapping, Chris, Elliot, web scraping, remote sensing](https://ucla.zoom.us/rec/share/caZMMextrlZoNYPngKPLYAW92exMFGeUf6dUoYYtCHqamu7DSufuMa7lw5awgDKz.kl5Ddr8cNZIJz5TS)
+[Week 10 Thick mapping, Lucy](https://ucla.zoom.us/rec/share/caZMMextrlZoNYPngKPLYAW92exMFGeUf6dUoYYtCHqamu7DSufuMa7lw5awgDKz.kl5Ddr8cNZIJz5TS)
 
 [Final presentations](https://ucla.zoom.us/rec/share/8qnpHJTe8mC33GMdt2o42TZEmaDTbYmlMUwNL67IBxjeviKKXKQGtQBCIADzwUs.jO82XPxavb4g2n5I)
