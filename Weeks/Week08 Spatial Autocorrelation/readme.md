@@ -87,7 +87,7 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 ## Today's Agenda
 
-Lab: Part 1
+Lab: 
 <xl>Spatial Autocorrelation 
 </xl>
 
