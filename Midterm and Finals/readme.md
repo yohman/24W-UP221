@@ -46,7 +46,7 @@ This is an extension of your mid-term project. To review:
 
 Submit links to the following items in [this discussion section](https://github.com/cgiamarino9/24W-UP221/discussions/12).
 
-**Create a website (due Friday, March 15 2024 by 11:59 pm Week 10)** (using ESRI Story Maps, Google Sites, Word Press, or alternative) telling the story of your analysis in 1500+ words (not including tables, figures, captions, or references). Incorporate the visualizations and analytical results into your narrative. You are welcome to create a narrative of your own style (i.e. journalistic, infographic, etc) as long as the spatial science strongly informs and validates the urban problematic you are addressing. Otherwise, you are welcome to stick with the traditional research outline, organizing your material into five sections: 1, introduction (provide an overview of your entire project); 2, background (explain the context, prior work, and motivation leading to your research question). 3, methods (explain your data and your analytical process). 4, results (lay out your findings and visuals). 5, discussion (circle back to your research question and what your analysis tells you about it, what is the big picture and how are these findings useful?). At the top of the site, include your names, the date, your project title. At the end of the story map, describe each group member's contribution to this final project (one sentence each).
+**Create a website (due March 18th by 4:59 pm with presentation materials and notebooks)** (using ESRI Story Maps, Google Sites, Word Press, or alternative) telling the story of your analysis in 1500+ words (not including tables, figures, captions, or references). Incorporate the visualizations and analytical results into your narrative. You are welcome to create a narrative of your own style (i.e. journalistic, infographic, etc) as long as the spatial science strongly informs and validates the urban problematic you are addressing. Otherwise, you are welcome to stick with the traditional research outline, organizing your material into five sections: 1, introduction (provide an overview of your entire project); 2, background (explain the context, prior work, and motivation leading to your research question). 3, methods (explain your data and your analytical process). 4, results (lay out your findings and visuals). 5, discussion (circle back to your research question and what your analysis tells you about it, what is the big picture and how are these findings useful?). At the top of the site, include your names, the date, your project title. At the end of the story map, describe each group member's contribution to this final project (one sentence each).
 
 [Creating your ArcGIS Pro and Online free account through your UCLA login credentials](https://guides.library.ucla.edu/c.php?g=1268157&p=9300192)
 
@@ -54,7 +54,7 @@ Submit links to the following items in [this discussion section](https://github.
 
 [Google Sites tutorial](https://support.google.com/sites/answer/6372878?hl=en)
 
-**Presentation (due finals week before class at 4:59 pm)** during finals week, you will have 10 minutes to present your project to the class.
+**Presentation (due March 18th by 4:59 pm with story map, site, or report)** during finals week, you will have 10 minutes to present your project to the class.
 
 *  Follow the [TED presentation guidelines](https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide/speakers-program/prepare-your-speaker/create-prepare-slides)
 *  Do not present your storymap
