@@ -54,7 +54,7 @@ Submit links to the following items in [this discussion section](https://github.
 
 [Google Sites tutorial](https://support.google.com/sites/answer/6372878?hl=en)
 
-**Presentation (due finals week)** during finals week, you will have 8 minutes to present your project to the class.
+**Presentation (due finals week before class at 4:59 pm)** during finals week, you will have 10 minutes to present your project to the class.
 
 *  Follow the [TED presentation guidelines](https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide/speakers-program/prepare-your-speaker/create-prepare-slides)
 *  Do not present your storymap
