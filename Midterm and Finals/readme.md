@@ -70,4 +70,12 @@ Submit links to the following items in [this discussion section](https://github.
 - [grading criteria](https://github.com/cgiamarino9/24W-UP221?tab=readme-ov-file#grading-criteria)
 
 **Final examples**: 
-[Example1](https://docs.google.com/presentation/d/1hhmEXRqUheoIrORC4sREa3TFJ6OBkmeR/edit?usp=sharing&ouid=114100702949630940115&rtpof=true&sd=true). [Example 2](https://docs.google.com/presentation/d/1Mq0MnkH4wDH6sTjfQcTFAESgKQlO2HZFm3UKi7Q2b6M/edit?usp=sharing). [Example 3](https://docs.google.com/presentation/d/1_CAiY4MHeYh7dKEos-bIXYskkd7-G9jEti5-aMSK5SI/edit?usp=sharing).
+* [Example1](https://docs.google.com/presentation/d/1hhmEXRqUheoIrORC4sREa3TFJ6OBkmeR/edit?usp=sharing&ouid=114100702949630940115&rtpof=true&sd=true). 
+* [Example 2](https://docs.google.com/presentation/d/1Mq0MnkH4wDH6sTjfQcTFAESgKQlO2HZFm3UKi7Q2b6M/edit?usp=sharing). 
+* [Example 3](https://docs.google.com/presentation/d/1_CAiY4MHeYh7dKEos-bIXYskkd7-G9jEti5-aMSK5SI/edit?usp=sharing).
+
+**Story Maps**: 
+* [Example of storytelling through maps 'The literay life of Octavia E. Butler'](https://www.latimes.com/projects/la-libraries-octavia-butler-books-life/).
+* [Example Story Map on Transit Gaps from Lucy's team last year](https://arcg.is/0rTDa5). 
+* [Example Story Map on the relationship between redlining and helath inequities](https://arcg.is/0Ca0Cm). 
+* [Example Google Site rom Chinatown Community for Equitable Development](https://sites.google.com/g.ucla.edu/up221-chinatown?pli=1). 
