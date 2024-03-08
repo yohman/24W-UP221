@@ -61,7 +61,7 @@ Our amazing spatial scholars
 
 ## Today's lab is:
 
-FINAL PROECT WORKSHOP!
+FINAL PROJECT WORKSHOP!
 
 ## Final project presentations
 
