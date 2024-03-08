@@ -25,14 +25,23 @@ left {text-align:left;}
 
 <xl>
 
-Scraping, remote sensing, and TA magic
+TA GIS magic and Final Workshop
 
 </xl>
 
 [Course Zoom](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
 
-## Let's pull
+
+
+##
+<xl>
+
+This course will be recorded<br><br>🎥
+
+</xl>
+
+## Let's pull (optional if you'd like to look at Metro API and Remote Sensing imagery)
 
 First, grab the course material, and "pull" it into your JupyterHub:
 
@@ -43,15 +52,6 @@ First, grab the course material, and "pull" it into your JupyterHub:
 </small>
 
 ##
-<xl>
-
-This course will be recorded<br><br>🎥
-
-</xl>
-
-
-
-##
 
 <xl>
 Ariella and Lucy
@@ -59,11 +59,9 @@ Ariella and Lucy
 
 Our amazing spatial scholars
 
-## Today's lab
+## Today's lab is:
 
-![remote sensing](https://github.com/yohman/workshop-remote-sensing/raw/main/images/remote2.png)
-- Metro scraping!
-- Remote sensing 101
+FINAL PROECT WORKSHOP!
 
 ## Final project presentations
 
