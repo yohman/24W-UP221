@@ -25,7 +25,7 @@ left {text-align:left;}
 
 <xl>
 
-TA GIS magic and Final Workshop
+Final Workshop
 
 </xl>
 
@@ -35,11 +35,11 @@ TA GIS magic and Final Workshop
 
 
 ##
+
 <xl>
-
-This course will be recorded<br><br>🎥
-
+Course evaluation (take 5-10 minutes during class time)
 </xl>
+Friendly reminder (for the 3rd or 4th time)
 
 ## Let's pull (optional if you'd like to look at Metro API and Remote Sensing imagery)
 
@@ -51,13 +51,6 @@ First, grab the course material, and "pull" it into your JupyterHub:
 <small>Note that you have to do this at the start of every lecture to get the latest material.
 </small>
 
-##
-
-<xl>
-Ariella and Lucy
-</xl>
-
-Our amazing spatial scholars
 
 ## Today's lab is:
 
