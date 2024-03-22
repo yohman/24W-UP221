@@ -11,6 +11,7 @@ Select `Developer Settings` from the left panel, and then `Personal access token
 Click on the `Generate new token` button.
 
 <kbd><img src="images/token.png"></kbd>
+<kbd><img src="images/token2.png"></kbd>
 
 Set the expiration date to at least 90 days.
 
@@ -18,9 +19,9 @@ Check the box next to `repo`.
 
 Scroll down and generate the token.
 
-<kbd><img src="images/token2.png"></kbd>
-
-Copy and store your access token in a safe place. You will be using it throughout the course.
-
 <kbd><img src="images/token3.png"></kbd>
+
+Copy and store your access token in a safe place. You will be using it throughout the course. WARNING: Once you close this page, your access token will disappear. Copy and paste it into your course document on your cloud service or local laptop. 
+
+<kbd><img src="images/token4.png"></kbd>
 

@@ -2,8 +2,7 @@
 marp: true
 theme: uncover
 headingDivider: 3
-footer: UP221 | Intro to GIS and Spatial Data Science 
-# ![width:30px](../images/yoh%20with%20globe.png)
+footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png) 
 paginate: true
 
 ---
@@ -29,9 +28,9 @@ Open Data Exploration
 
 </xl>
 
-https://ucla.zoom.us/j/96734931456
+[Course Zoom](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
-January 31, 2023
+January 29, 2024
 
 ##
 <xl>
@@ -41,55 +40,65 @@ January 31, 2023
 </xl>
 
 ##
-
 <xl>
-Fukushima
+
+[Preferred office hours poll](https://docs.google.com/forms/d/e/1FAIpQLSeLw-b8XXS72hp2BjaO1zU87H5s4_bAxj-Ur_yNza0sX1BEYQ/viewform?vc=0&c=0&w=1&flr=0) 
 </xl>
 <br>
-A little taste of the Japanese countryside
+
+<p style="text-align: left"> <font size ="6">
+I am currently hosting office hours after class for one hour from 8 pm to 9 pm. Please pick one additional day and time that works for you on this Google Poll. If Monday after class does not work for the majority of you, pick two days and two hour time slots that work for you for virtual office hours. I am also available via email and slack.</font></p> 
 
 ##
-![bg](images/japan%20map.png)
+<xl>
+
+[30 minute group meeting with instructor sheet](https://docs.google.com/spreadsheets/d/1DXqucpqfVam-1Jj9m8cBfWfkWU_akzfykvCaca7HxXY/edit?usp=sharing) 
+
+</xl>
+<br>
+<p style="text-align: left"> 
+If you and your group would like to meet with me for 30 minutes to discuss your proposal, data sources, and python modules/libraries that may benefit your project, please sign up for a time slot on the Google Sheet. Otherwise, I will provide a detailed email with feedback, additional data sources, and python library modules and funcions you will want to look into for your group projects before the midterm on week 6. </p>
 
 ##
-![bg](images/mt%20fuji.jpg)
+
+<xl>
+Drifting, walking, skateboarding...
+</xl>
+<br>
+Public sidewalk characters and the sidewalk ballet
 
 ##
-![bg](images/snowy%20morning.jpg)
+![width:720px](../images/ams2-min.JPG) 
 
 ##
-![bg](images/megasolar.png)
+![width:720px](../images/berlin2-min.JPG)
 
 ##
-![bg](images/me%20on%20breakwaters.jpg)
+![width:720px](../images/cph1-min.JPG)
 
 ##
-![bg](images/breakwaters.jpg)
+![width:720px](../images/dessert-min.JPG)
 
 ##
-![bg](images/photojournalists.jpg)
+![width:720px](../images/fish-min.JPG)
 
 ##
-![bg](images/high%20radiation%20reading.jpg)
+![width:720px](../images/dog-min.JPG)
 
 ##
-![bg](images/soba1.jpg)
+![width:720px](../images/warsaw3.JPG)
 
 ##
-![bg](images/soba2.jpg)
+![width:720px](../images/pastaGranny-min.JPG)
 
-##
-![bg](images/soba3.jpg)
 
-##
-![bg](images/soba4.jpg)
 
 
 
 ## Hands on Lab
 First, grab the course material, and "pull" it into your JupyterHub:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F23W-UP221&urlpath=lab%2Ftree%2F23W-UP221%2F&branch=main) 
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) 
 (This link will automatically launch JupyterHub and clone the course material into your directory)
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
@@ -108,14 +117,14 @@ Mapping arrests
 </xl>
 
 
-# Assignments (due 23:59 Sunday, the day before class)
+# Assignments (due 11:59 Sunday, February 4 the day before class)
 
 
 ## Mini Group Assignment
 
 <left>
 
-For this week's group assignment, meet with your partner and submit a status report as a markdown file in your group repo. This will simply be graded as a "done" or "not done" and count towards your participation grade.
+For this week's group assignment, meet with your group members and submit a status report as a markdown file in your group repo. This will simply be graded as a "done" or "not done" and count towards your participation grade.
 </left>
 
 ### Instructions
@@ -138,7 +147,7 @@ Include the following sections:
 
 ### Submit
 
-Submit your updated proposal [here](https://github.com/yohman/23W-UP221/discussions/7).
+Submit your updated proposal [here](https://github.com/cgiamarino9/24W-UP221/discussions/7).
 
 ## Individual Coding Assignment
 
@@ -163,6 +172,6 @@ This assignment can be as long or as short as you desire. It is meant to review 
 - provide ample markdown cells (preferrably before and after each code cell) that explains what you are going to do, and how you interpret the results)
 - upload your notebook to your GitHub account
 
-Submit a link to your notebook [here](https://github.com/yohman/23W-UP221/discussions/8).
+Submit a link to your notebook [here](https://github.com/cgiamarino9/24W-UP221/discussions/6).
 
 

@@ -18,6 +18,13 @@ There are three deliverables for the mid-term project.
          - the maps must have at least one data overlay
       - in the last cell of the notebook, list each group member and describe the division of labor, and what each member's contribution was to the project
 1. Present your project to the class
+
+**Midterm examples**: 
+[Example1](https://docs.google.com/presentation/d/1LK8kfe81yTH3XZDW4RjxljfGGxGyHpbh/edit?usp=sharing&ouid=114100702949630940115&rtpof=true&sd=true). [Example 2](https://docs.google.com/presentation/d/1DyK2YsIfRXRNBksoDekrZJwP6OHZ1fY0yn7ivzh3ZSA/edit?usp=sharing). [Example 3](https://docs.google.com/presentation/d/1ReRYwWcoKqMlBuCwZ2W5z5HkcoUTXymV-OSPSwMkM9Y/edit?usp=sharing).
+
+### Midterm Deliverables
+
+Submit links to the following items in [this discussion section](https://github.com/cgiamarino9/24W-UP221/discussions/8).
    
 
 ## Final Project (30% of your final grade)
@@ -35,13 +42,19 @@ This is an extension of your mid-term project. To review:
 1. Create 3 or more static data visualizations, such as scatter plots, histograms, bar charts, line graphs, etc.
 1. Create 3 or more maps, including at least 1 choropleth map
 
-### Deliverables
+### Final Deliverables
 
-Submit links to the following items in [this discussion section](https://github.com/yohman/23W-UP221/discussions/11).
+Submit links to the following items in [this discussion section](https://github.com/cgiamarino9/24W-UP221/discussions/12).
 
-**Create a website (due Week 10)** (using ESRI Story Maps, Google Sites, Word Press, or alternative) telling the story of your analysis in 1500+ words (not including tables, figures, captions, or references). Incorporate the visualizations and analytical results into your narrative. You are welcome to create a narrative of your own style (i.e. journalistic, infographic, etc) as long as the spatial science strongly informs and validates the urban problematic you are addressing. Otherwise, you are welcome to stick with the traditional research outline, organizing your material into five sections: 1, introduction (provide an overview of your entire project); 2, background (explain the context, prior work, and motivation leading to your research question). 3, methods (explain your data and your analytical process). 4, results (lay out your findings and visuals). 5, discussion (circle back to your research question and what your analysis tells you about it, what is the big picture and how are these findings useful?). At the top of the site, include your names, the date, your project title. At the end of the story map, describe each group member's contribution to this final project (one sentence each).
+**Create a website (due March 18th by 4:59 pm with presentation materials and notebooks)** (using ESRI Story Maps, Google Sites, Word Press, or alternative) telling the story of your analysis in 1500+ words (not including tables, figures, captions, or references). Incorporate the visualizations and analytical results into your narrative. You are welcome to create a narrative of your own style (i.e. journalistic, infographic, etc) as long as the spatial science strongly informs and validates the urban problematic you are addressing. Otherwise, you are welcome to stick with the traditional research outline, organizing your material into five sections: 1, introduction (provide an overview of your entire project); 2, background (explain the context, prior work, and motivation leading to your research question). 3, methods (explain your data and your analytical process). 4, results (lay out your findings and visuals). 5, discussion (circle back to your research question and what your analysis tells you about it, what is the big picture and how are these findings useful?). At the top of the site, include your names, the date, your project title. At the end of the story map, describe each group member's contribution to this final project (one sentence each).
 
-**Presentation (due finals week)** during finals week, you will have 8 minutes to present your project to the class.
+[Creating your ArcGIS Pro and Online free account through your UCLA login credentials](https://guides.library.ucla.edu/c.php?g=1268157&p=9300192)
+
+[esri Story Maps tutorial](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)
+
+[Google Sites tutorial](https://support.google.com/sites/answer/6372878?hl=en)
+
+**Presentation (due March 18th by 4:59 pm with story map, site, or report)** during finals week, you will have 10 minutes to present your project to the class.
 
 *  Follow the [TED presentation guidelines](https://www.ted.com/participate/organize-a-local-tedx-event/tedx-organizer-guide/speakers-program/prepare-your-speaker/create-prepare-slides)
 *  Do not present your storymap
@@ -54,4 +67,15 @@ Submit links to the following items in [this discussion section](https://github.
 
 ### Grading
 
-- [grading criteria](https://github.com/yohman/22W-UP206A#grading-criteria)
+- [grading criteria](https://github.com/cgiamarino9/24W-UP221?tab=readme-ov-file#grading-criteria)
+
+**Final examples**: 
+* [Example1](https://docs.google.com/presentation/d/1hhmEXRqUheoIrORC4sREa3TFJ6OBkmeR/edit?usp=sharing&ouid=114100702949630940115&rtpof=true&sd=true). 
+* [Example 2](https://docs.google.com/presentation/d/1Mq0MnkH4wDH6sTjfQcTFAESgKQlO2HZFm3UKi7Q2b6M/edit?usp=sharing). 
+* [Example 3](https://docs.google.com/presentation/d/1_CAiY4MHeYh7dKEos-bIXYskkd7-G9jEti5-aMSK5SI/edit?usp=sharing).
+
+**Story Maps**: 
+* [Example of storytelling through maps 'The literay life of Octavia E. Butler'](https://www.latimes.com/projects/la-libraries-octavia-butler-books-life/).
+* [Example Story Map on Transit Gaps from Lucy's team last year](https://arcg.is/0rTDa5). 
+* [Example Story Map on the relationship between redlining and helath inequities](https://arcg.is/0Ca0Cm). 
+* [Example Google Site rom Chinatown Community for Equitable Development](https://sites.google.com/g.ucla.edu/up221-chinatown?pli=1). 

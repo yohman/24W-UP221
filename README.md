@@ -4,6 +4,8 @@ Winter 2024
 
 Mondays 5pm - 7:50pm
 
+[Recurring Zoom link](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
+
 ## Course format:
 
 **Live-Online/Synchronous**
@@ -32,11 +34,11 @@ Ben Winjum (bwinjum@ucla.edu)
 
 ## Office Hours: 
 
-* Chris (schedule via email)
+* Chris, Mondays 8 - 9 pm after class and Tuesdays from 6 - 7 pm (use course Zoom link; available via email and slack)
 
 * Ariella, Tuesdays from 1-3 pm (schedule via email/Zoom)
 
-* Lucy, Mondays from 2 - 4 pm (schedule via email/Zoom)
+* Lucy, Thursdays from 4 - 6 pm (schedule via email/Zoom)
 
 ## Course Description
 
@@ -71,7 +73,7 @@ The following applications must be launched at the start of every class session:
 
 ## Inspirations
 
-I would be remiss if I do not mention various inspirations that have led to the creation of this course. First and foremost, Yoh Kawano crafted this course and was gracious enough to mentor me as a TA for several years, lend me the material, and show me how to teach GIS and python effectively. Second, the late and great [Leo Estrada](https://luskin.ucla.edu/in-memoriam-leo-estrada-urban-planning-scholar-and-champion-of-diversity), who was Yoh's mentor and confidant over the years, who taught GIS at our department for many decades. Leo and Yoh spoke extensively about modifying this course to a more “modern” approach, and I am delighted and honored to uphold his legacy moving forward.
+I would be remiss if I do not mention various inspirations that have led to the creation of this course. First and foremost, [Yoh Kawano](https://luskin.ucla.edu/person/yoh-kawano) crafted this course and was gracious enough to mentor me as a TA for several years, lend me the material, and show me how to teach GIS and python effectively. Second, the late and great [Leo Estrada](https://luskin.ucla.edu/in-memoriam-leo-estrada-urban-planning-scholar-and-champion-of-diversity), who was Yoh's mentor and confidant over the years, who taught GIS at our department for many decades. Leo and Yoh spoke extensively about modifying this course to a more “modern” approach, and I am delighted and honored to uphold both of their legacies moving forward.
 
 Third, we have taken the liberty (with permission) to borrow ideas and materials from other courses. We specifically took inspiration from [Paul Waddell](https://ced.berkeley.edu/ced/faculty-staff/paul-waddell)’s “[Urban Informatics and Visualization](https://github.com/waddell/CP255)” course at UC Berkeley, and [Geoff Boeing](https://geoffboeing.com/about/)’s “[Data, Evidence, and Communication for the Public Good](https://github.com/gboeing/ppd534)” at the Department of Urban Planning and Spatial Analysis at USC’s Sol Price School of Public Policy.
 
@@ -80,6 +82,7 @@ Third, we have taken the liberty (with permission) to borrow ideas and materials
 The course will almost entirely be conducted on Jupyter Notebooks. A [JupyterHub](https://jupyter.idre.ucla.edu), a web-based Jupyter Notebook environment, has been set up specifically for this class, and is available at the following [URL](https://jupyter.idre.ucla.edu). Note that you will need multi-factored authentication to login:
 
 *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
+* [Course slack](https://join.slack.com/t/24w-up221/shared_invite/zt-2a3ipi7fa-J2T3HyDezDLVabcIzG7V_w)
 
 Weekly course materials, including presentations, interactive notebooks (.ipynb), and data will be made available through a course github repository (here) that you will interact with through your JupyterHub account.
 
@@ -129,7 +132,7 @@ Late assignments will be marked down one grade for each day it is late. For exam
 
 ### Preparation
 
-*   Fill out the [pre-class survey](https://forms.gle/f8ZXLgNbvFawt6cw5)
+*   Fill out the [pre-class survey](https://docs.google.com/forms/d/e/1FAIpQLSfs2NtxTY5HTcT6fr3-5TqoiD0fVcWptpjRifR1NU6v5jdXRg/viewform?vc=0&c=0&w=1&flr=0) 
 *   If you do not have a GitHub account, create one for the class
 	*   [https://github.com/](https://github.com/)
 *   Make sure you can log into the class JupyterHub
@@ -165,7 +168,7 @@ If the above steps haven't solved your problem, send an email (or attend office 
 
 1. A detailed description of what you're trying to do, why, and how
 2. A complete [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code)
-3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-4 above, including relevant links from stackoverflow etc)
+3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-5 above, including relevant links from stackoverflow etc)
 
 ## Readings and Resources
 

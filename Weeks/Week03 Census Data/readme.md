@@ -2,7 +2,7 @@
 marp: true
 theme: uncover
 headingDivider: 3
-footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/yoh%20with%20globe.png)
+footer: UP221 | Intro to GIS and Spatial Data Science ![width:30px](../images/globe.png)
 paginate: true
 
 ---
@@ -28,9 +28,10 @@ Census Data Exploration
 
 </xl>
 
-https://ucla.zoom.us/j/96734931456
+[Course zoom link for Winter Quarter 2024](https://ucla.zoom.us/j/94971812993?pwd=NjI4bkxRR2s3Q0FVblU0WmlHbXNodz09)
 
-January 23, 2023
+
+January 22, 2024
 
 ##
 <xl>
@@ -42,37 +43,55 @@ January 23, 2023
 ##
 
 <xl>
-A little taste of the Japanese countryside
+Street art in Italy
 </xl>
 
 ##
 
-![bg](images/bullet1.png)
+![width:500px](../images/cigs.JPG)
+
 
 ##
 
-![bg](images/bullet2.png)
+![bg](../images/rome.JPG)
+
 
 ##
 
-![bg](images/bullet3.png)
+![bg](../images/gator.JPG)
+
+##
+<xl>
+My rainy weekend ...
+</xl>
 
 ##
 
-![bg](images/bullet4.png)
+![width:700px](../images/courts.JPG)
 
+##
+
+![bg](../images/burbank.JPG)
+
+##
+
+![width:700px](../images/blue.JPG)
+
+##
+
+![width:700px](../images/walts.JPG)
 
 ## Hands on Lab
 First, grab the course material, and "pull" it into your JupyterHub:
 
-* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F23W-UP221&urlpath=lab%2Ftree%2F23W-UP221%2F&branch=main) 
+* [UP221 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcgiamarino9%2F24W-UP221&urlpath=lab%2Ftree%2F24W-UP221%2F&branch=main) 
 (This link will automatically launch JupyterHub and clone the course material into your directory)
 
 <small>Note that you have to do this at the start of every lecture to get the latest material.
 </small>
 
 
-# Assignments (due 23:59 Sunday, the day before class)
+# Assignments (due 11:59 Sunday, January 28th the day before class)
 
 
 ## Group Assignment #1
@@ -81,14 +100,14 @@ First, grab the course material, and "pull" it into your JupyterHub:
 
 <left>
 
-The course will largely be guided by your final project, which will be conducted in pairs. Consider that your final project will be a representation of what you learn in this course, and how you apply it on a project level. Consider also that your final project can serve to showcase your data science and mapping skills, which may become a valuable asset for your career moving forward.
+The course will largely be guided by your final project, which will be conducted in groups of 4-5. Consider that your final project will be a representation of what you learn in this course, and how you apply it on a project level. Consider also that your final project can serve to showcase your data science and mapping skills, which may become a valuable asset for your career moving forward.
 
 
 ### Step 1: Plan
 <hr>
 
 <left>
-Meet with your partner, discuss and identify a research question, identify and collect data, articulate how you intend to use and analyze it, and begin to speculate how the data can answer your research inquiry. Understand that this may change later, especially as we learn more about what we can do with our methods, and also, as you find the data sources that can or cannot support your research.
+Meet with your groups, discuss and identify a research question, identify and collect data, articulate how you intend to use and analyze it, and begin to speculate how the data can answer your research inquiry. Understand that this may change later, especially as we learn more about what we can do with our methods, and also, as you find the data sources that can or cannot support your research.
 
 ### Step 2: Data
 <hr>
@@ -118,7 +137,7 @@ Your project proposal should include the following:
 *   A concluding paragraph of what insights you expect to gain from your research
 
 ### Step 5: Submit
-Submit your assignment [here](https://github.com/yohman/23W-UP221/discussions/5)
+Submit your assignment [here](https://github.com/cgiamarino9/24W-UP221/discussions/9)
 
 ## Group Assignment #2
 
@@ -162,4 +181,4 @@ For this group assignment, each group member will create and submit a separate J
 
 ### Step 3: Submit
 
-- Submit your assignment by posting a link to your notebook [here](https://github.com/yohman/23W-UP221/discussions/6).
+- Submit your assignment by posting a link to your notebook [here](https://github.com/cgiamarino9/24W-UP221/discussions/5).
