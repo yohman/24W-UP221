@@ -25,4 +25,6 @@ Recordings will be made available within a day after the class. These recordings
 
 [Week 10 Thick mapping, Ariella + Lucy](https://ucla.zoom.us/rec/share/caZMMextrlZoNYPngKPLYAW92exMFGeUf6dUoYYtCHqamu7DSufuMa7lw5awgDKz.kl5Ddr8cNZIJz5TS)
 
-[Final presentations](https://ucla.zoom.us/rec/share/8qnpHJTe8mC33GMdt2o42TZEmaDTbYmlMUwNL67IBxjeviKKXKQGtQBCIADzwUs.jO82XPxavb4g2n5I)
+[Final presentations part 1](https://ucla.zoom.us/rec/share/XKU1VTWBDzygInNd9pWy7ypTxIBYyzb31ng0lsoPaBg3xGsVcJclkPJxKgvcgfhA.7YzAiyPap2ahsz67?startTime=1710806779000) 
+
+[Final presentations part 2](https://ucla.zoom.us/rec/share/XKU1VTWBDzygInNd9pWy7ypTxIBYyzb31ng0lsoPaBg3xGsVcJclkPJxKgvcgfhA.7YzAiyPap2ahsz67?startTime=1710816947000)
